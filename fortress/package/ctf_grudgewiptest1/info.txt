@@ -1,0 +1,25 @@
+================================================================
+Title                   : Grudge (Work in Progress Test version 1)
+Filename                : ctf_grudgewiptest1.bsp
+Author                  : Niccy
+Description             : A capture the flag map set in a Deep dwarven mine. Two dwarven holds stand connected over a chasm of unknown depth, by a large bridge and a smaller minecart one. Fight to the other teams treasure hold, and bring back their flag to your great hall to score!
+Where to get it         : https://github.com/FortressOne/map-repo
+================================================================
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch		: No
+Team Fortress           : Yes, intended for 3-4 attackers and 3-4 defenders.
+Difficulty Settings     : No
+New Sounds              : None for now.
+New Graphics            : Strideh's Delven & High Seas Texture packs, khreathor's Prototype WAD
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Editor(s) used          : TrenchBroom, Ericw-tools
+Known Bugs              : None                        
+Build Time              : (So far) August 2026, not final version, further playtesting required.
+================================================================
