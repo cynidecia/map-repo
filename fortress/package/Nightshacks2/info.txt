@@ -1,0 +1,25 @@
+================================================================
+Title                   : Nightshacks 2
+Filename                : nightshacks2.bsp
+Author                  : Niccy
+Description             : The completed version/pseudo remake of my first QWTF map, Nightshacks! Two Pumping stations sit on the edge of a large canyon under a starry night sky, allowing water to pass through the humongous overhead pipes to lands beyond. Two small shacks sit inbetween the bases, used as monitoring stations for the large lower pipes. Save for the dim buzzing of the fluorescent lights & the blowing of the ventilation, it is peacefully quiet. What better spot for a game of capture the flag?
+Where to get it         : https://github.com/FortressOne/map-repo
+================================================================
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch		: No
+Team Fortress           : Yes, intended for 4 v 4 or more.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : Ikbase, Bam4, Ikq3 & Starfields wads. Bam4 textures decompiled from the original map, the rest found on quaddicted. All credits go to original artists!
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Editor(s) used          : TrenchBroom, Ericw-tools
+Known Bugs              : None                        
+Build Time              : Roughly 1 week of on and off work. Original .map files for nightshacks's 5th beta iteration were lost when my computer broke, so i decided to cut my teeth on mapping again by remaking the map from scratch with the fixes i felt were necessary to make it great.
+================================================================
