@@ -2,7 +2,7 @@
 Title                   : Nightshacks 2
 Filename                : nightshacks2.bsp
 Author                  : Niccy
-Description             : The completed version/pseudo remake of my first QWTF map, Nightshacks! Two Pumping stations sit on the edge of a large canyon under a starry night sky, allowing water to pass through the humongous overhead pipes to lands beyond. Two small shacks sit inbetween the bases, used as monitoring stations for the large lower pipes. Save for the dim buzzing of the fluourescent lights & the blowing of the ventilation, it is peacefully quiet. What better spot for a game of capture the flag?
+Description             : The completed version/pseudo remake of my first QWTF map, Nightshacks! Two Pumping stations sit on the edge of a large canyon under a starry night sky, allowing water to pass through the humongous overhead pipes to lands beyond. Two small shacks sit inbetween the bases, used as monitoring stations for the large lower pipes. Save for the dim buzzing of the fluorescent lights & the blowing of the ventilation, it is peacefully quiet. What better spot for a game of capture the flag?
 Where to get it         : https://github.com/FortressOne/map-repo
 ================================================================
 * Play Information *
